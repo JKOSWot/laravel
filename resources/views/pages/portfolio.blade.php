@@ -1,6 +1,27 @@
 @extends('layouts.app')
 
 @section('content')
+
+<figure class="photo">
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample70.jpg" alt="sample70" />
+  <figcaption>
+    <h3>Ingredia <span>Nutrisha</span></h3>
+  </figcaption>
+  <a href="#"></a>
+</figure>
+<figure class="photo-hover"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample106.jpg" alt="sample106" />
+  <figcaption>
+    <h3>Dianne <span>Ameter</span></h3>
+  </figcaption>
+  <a href="#"></a>
+</figure>
+<figure class="photo"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample109.jpg" alt="sample109" />
+  <figcaption>
+    <h3>Samuel <span>Serif</span></h3>
+  </figcaption>
+  <a href="#"></a>
+</figure>
+
 <div class="container-fluid bg-3 text-center">    
   <h3>Some of my Work</h3><br>
   <div class="row">
