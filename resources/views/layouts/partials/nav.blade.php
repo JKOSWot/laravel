@@ -9,7 +9,7 @@
       <a class="navbar-brand" href="#">Portfolio</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="snip1143">
+      <ul class="nav navbar-nav">
         <li class="current"><a href="#" data-hover="Home">Home</a></li>
         <li><a href="#" data-hover="About Us">About Us</a></li>
         <li><a href="#" data-hover="Blog">Blog</a></li>
