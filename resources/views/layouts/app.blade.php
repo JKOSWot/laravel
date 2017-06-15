@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-@include('layouts.partials.header')
+@yield('layouts.partials.header')
 
-@include('layouts.partials.nav')
+@yield('layouts.partials.nav')
   
-@yield('content')
+@include('content')
 
-@include('layouts.partials.footer')
+@yield('layouts.partials.footer')
 
 </body>
 </html>
