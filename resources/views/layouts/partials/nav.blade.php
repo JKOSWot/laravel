@@ -9,11 +9,13 @@
       <a class="navbar-brand" href="#">Portfolio</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Gallery</a></li>
-        <li><a href="#">Contact</a></li>
+      <ul class="snip1143">
+        <li class="current"><a href="#" data-hover="Home">Home</a></li>
+        <li><a href="#" data-hover="About Us">About Us</a></li>
+        <li><a href="#" data-hover="Blog">Blog</a></li>
+        <li><a href="#" data-hover="Services">Services</a></li>
+        <li><a href="#" data-hover="Products">Products</a></li>
+        <li><a href="#" data-hover="Contact">Contact</a></li>
       </ul>
     </div>
   </div>
