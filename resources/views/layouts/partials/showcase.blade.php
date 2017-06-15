@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <div class="container-fluid bg-3 text-center">    
   <h3>Some of my Work</h3><br>
   <div class="row">
